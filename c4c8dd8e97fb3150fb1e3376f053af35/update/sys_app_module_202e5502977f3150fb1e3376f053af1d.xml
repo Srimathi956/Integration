@@ -14,7 +14,7 @@
         <mobile_view_name>Mobile</mobile_view_name>
         <name/>
         <order>1</order>
-        <override_menu_roles>false</override_menu_roles>
+        <override_menu_roles>true</override_menu_roles>
         <query/>
         <report/>
         <roles/>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>202e5502977f3150fb1e3376f053af1d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>inciden</sys_name>
         <sys_overrides/>
         <sys_package display_value="TestingApplication" source="x_1059059_testinga">c4c8dd8e97fb3150fb1e3376f053af35</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="TestingApplication">c4c8dd8e97fb3150fb1e3376f053af35</sys_scope>
         <sys_update_name>sys_app_module_202e5502977f3150fb1e3376f053af1d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-19 06:11:06</sys_updated_on>
+        <sys_updated_on>2024-01-19 07:27:46</sys_updated_on>
         <timeline_page/>
         <title>inciden</title>
         <uncancelable>false</uncancelable>
